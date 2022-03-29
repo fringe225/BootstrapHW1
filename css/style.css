@@ -1,0 +1,148 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+header .top .blue  i{
+    color:#4d9ed0;
+    margin-left:10px;
+}
+
+.icons-white{
+    display:inline-block; 
+}
+.icons-white i{
+    color: #fff; 
+}
+
+
+.icons-white i:hover{
+    color:#4d9ed0;
+    cursor:pointer;
+}
+
+
+header .top span{
+    color:gray;
+    font-size:10px;
+    margin-left: 10px;
+    text-transform: lowercase !important;
+}
+
+
+/* Main Section */
+
+#Main a{
+    text-decoration: none;
+    color:black;
+    font-size:20px;
+    margin-left:10px;
+}
+
+#Main2{
+    background-image: url("http://anpsthemes.com/limorent/demo-1/wp-content/uploads/2016/12/slider1.jpg");
+    padding: 13rem 0;
+    background-size:cover;
+    background-position: center;
+}
+
+#Main2 p{
+    font-size:24px;
+    color:#4d9ed0;
+}
+
+#Main2 h1{
+    font-size:60px;
+    font-weight: bold;
+}
+
+#Main2 span{
+    display:block;
+    color:#fff;
+    width: 40%;
+}
+
+/* Second Section */
+
+#Second{
+    padding:10rem 0;
+}
+
+#Second h1{
+    font-size:40px;
+}
+
+#Second p{
+    font-size: 24px;
+    color:#4d9ed0;
+}
+
+#Second span{
+    display:inline-block;
+    font-size:18px;
+
+}
+
+/* #Third Section */
+
+#third{
+    background-color: #f8f9f9;
+    padding:4rem 0;
+}
+
+#third img{
+    width:100%;
+}
+
+#third a{
+    text-decoration:none;
+}
+
+/* fourth section */
+
+#fourth{
+    background-color: #fff;
+    padding:12rem 0;
+
+}
+
+#fourth a{
+    transition:0.5s;
+}
+#fourth a:hover{
+    text-decoration:none;
+    color:#4d9ed0 !important;
+}
+
+#fourth img:hover{
+    opacity:0.9;
+    cursor: pointer;
+}
+
+
+/* Five Section */
+
+#five{
+    background-color: #f8f9f9;
+    padding:4rem 0;
+}
+
+#five a{
+    text-decoration:none;
+}
+
+
+/* Last Section */
+
+#last-top{
+    padding:3rem 0;
+}
+
+#last-bottom{
+    padding:6rem 0;
+}
+#last-bottom img{
+    height: 250px;
+    width: 400px;
+}
